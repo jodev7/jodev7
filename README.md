@@ -1,4 +1,4 @@
-![Welcome!](K4a4jUzZ.gif)
+![Welcome!](2GrDoKf7.gif)
 
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">A FullStack JS Developer</h3>
