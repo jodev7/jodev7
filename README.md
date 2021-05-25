@@ -13,7 +13,8 @@
 
 ### Github Stats
 
-![Yusuf`s Stats](https://github-readme-stats.vercel.app/api?username=wheazzydev&count_private=true&show_icons=true&theme=radical)
+![Yusuf`s Stats](https://github-readme-stats.vercel.app/api?username=wheazzydev&show_icons=true&theme=radical)
+
 
 
 ### Top Languages
