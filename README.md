@@ -23,27 +23,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wheazzydev&show_icons=true&theme=tokyonight)
 
-[![Yusuf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wheazzydev)]
 
-<!--START_SECTION:waka-->
-name: Waka Readme
-
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.81ec2533-6d0e-4c48-9719-75d9d21dc262 }}
-          GH_TOKEN: ${{ secrets.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 }}
-
-<!--END_SECTION:waka-->
 
 
 
