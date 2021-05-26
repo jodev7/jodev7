@@ -23,7 +23,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wheazzydev&show_icons=true&theme=tokyonight)
 
-![Yusuf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wheazzydev)
+[![Yusuf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wheazzydev)]
 
 
 
