@@ -14,5 +14,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.81ec2533-6d0e-4c48-9719-75d9d21dc262 }}
           GH_TOKEN: ${{ secrets.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 }}
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "True"
+    
