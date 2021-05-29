@@ -24,7 +24,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wheazzydev&show_icons=true&theme=tokyonight)
 
 
-!--START_SECTION
+!--START_SECTIO
 !--END_SECTION:waka--
 
 
