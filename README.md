@@ -25,7 +25,7 @@
 
 
 
-whatsupniggaareyousureaoryoud
+whatsupniggaareyousureaoryou
 
 
 
