@@ -25,7 +25,7 @@
 
 
 
-whatsupniggaareyousureaoryoudontlik
+whatsupniggaareyousureaoryoudontli
 
 
 
