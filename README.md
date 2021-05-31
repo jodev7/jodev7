@@ -25,7 +25,7 @@
 
 
 
-whatsupniggaareyousure
+whatsupniggaareyousur
 
 
 
