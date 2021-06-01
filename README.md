@@ -25,7 +25,7 @@
 
 
 
-iwant10millionsubsintiktokandyoutub
+iwant10millionsubsintiktokandyoutube
 
 
 
