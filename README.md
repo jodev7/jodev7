@@ -25,7 +25,7 @@
 
 
 
-helloGODpleaseelpmefor10mils
+helloGODpleaseelpmefor10mil
 
 
 
