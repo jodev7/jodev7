@@ -25,7 +25,7 @@
 
 
 
-helloGOD
+helloGO
 
 
 
