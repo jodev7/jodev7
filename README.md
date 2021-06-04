@@ -25,7 +25,7 @@
 
 
 
-hellomynameisyusufiamfullstackdeve
+hellomynameisyusufiamfullstackdev
 
 
 
