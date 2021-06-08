@@ -25,7 +25,7 @@
 
 
 
-helloiamyusufnurmanoviamfullstackdevel
+helloiamyusufnurmanoviamfullstackdeve
 
 
 
