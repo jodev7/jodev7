@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++, C#, Unreal Engine 4**
 
-- 👨‍💻 All of my projects are available at [https://portfoliobyyyusuf.netlify.app](https://portfoliobyyyusuf.netlify.app)
+- 👨‍💻 All of my projects are available at [https://portfoliowheazzy.netlify.app](https://portfoliowheazzy.netlify.app)
 
 - 📫 email for contact **yusufnurmanov7@gmail.com**
 
