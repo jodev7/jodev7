@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">A FullStack JS Developer</h3>
 
-- 🌱 I’m currently learning **C++, C#, Unreal Engine 4**
 
 - 👨‍💻 All of my projects are available at [https://portfoliowheazzy.netlify.app](https://portfoliowheazzy.netlify.app)
 
