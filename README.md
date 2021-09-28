@@ -15,7 +15,8 @@
 ### Github Stats
 
 
-[![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=wheazzydev)](https://github.com/anuraghazra/github-readme-stats)
+[![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=wheazzydev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
