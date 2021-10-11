@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfoliowheazzy.netlify.app](https://portfoliowheazzy.netlify.app)
 
-- 📫 email for contact **yusufnurmanov7@gmail.com**
+- 📫 email for contact **wheazzydev@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
